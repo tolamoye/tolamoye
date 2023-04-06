@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Timileyin Olamoye
 
+#### I am a Data Analyst who is passionate about turning data into meaningful insight that drives better decision making. You can also call me a data detective 😊 since I can help uncover insight and pattern in a dataset. 
+---
+### Fascinating tidbits about me
+- 🤸‍♀️ I wrangle and analyze data for better decision making by harnessing the analytical power of **Excel, SQL, Power Bi and R**
+- 🔭 I am currently working on analyzing Amazon sales data and looking forward to participating in an upcoming data challenge in the Twitter community 
+- 🥰 When I'm not analyzing data, you can often find me watching movies or brushing up on my French language skills
+- 💞️ I am available for Data Analyst role. You can kindly reach me on Twitter and Linkedin
+- 📫 How to reach me: [Twitter](https://twitter.com/tolamoye), [Linkedin](https://www.linkedin.com/in/timileyinolamoye/)
+- ⚡ Fun fact: Did I mention I am passionate about environmental cause? 🤭 Do you happen to know of any great volunteering opportunities that focus on promoting sustainable living practices? I would love to get involved in any way I can
 <!--
 **tolamoye/tolamoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
