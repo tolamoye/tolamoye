@@ -6,6 +6,7 @@
 - 🤸‍♀️ I wrangle and analyze data for better decision making by harnessing the analytical power of **Excel, SQL, Power Bi and R**
 - 🔭 I am currently working on analyzing Amazon sales data and looking forward to participating in an upcoming data challenge in the Twitter community 
 - 🥰 When I'm not analyzing data, you can often find me watching movies or brushing up on my French language skills
+- 👯 I’m looking to collaborate on any fun Data project
 - 💞️ I am available for Data Analyst role. You can kindly reach me on Twitter and Linkedin
 - 📫 How to reach me: [Twitter](https://twitter.com/tolamoye), [Linkedin](https://www.linkedin.com/in/timileyinolamoye/)
 - ⚡ Fun fact: Did I mention I am passionate about environmental cause? 🤭 Do you happen to know of any great volunteering opportunities that focus on promoting sustainable living practices? I would love to get involved in any way I can
