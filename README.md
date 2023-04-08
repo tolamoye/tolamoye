@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Timileyin Olamoye
 
-#### I am a Data Analyst who is passionate about turning data into meaningful insight that drives better decision making. You can also call me a data detective 😊 since I can help uncover insight and pattern in a dataset. 
+#### I am a Data Analyst who is passionate about turning data into meaningful insight that drives better decision making. You can also call me a data detective 😊 since I can help uncover insight and pattern with data. 
 ---
 ### Fascinating tidbits about me
 - 🤸‍♀️ I wrangle and analyze data for better decision making by harnessing the analytical power of **Excel, SQL, Power Bi and R**
